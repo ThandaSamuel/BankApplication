@@ -1,0 +1,18 @@
+This application is simple console-based bank application.
+
+If you are a new user,run Application.java.
+Click on REGISTER if you are a new user.
+Fill the informations and you will able to see your page about your bank account.
+
+If you are a returning user, run Application.java.
+Sign in using User and password.
+You will able to see your page about your bank account.
+
+If you are an admin, run Application.java.
+Click on Go To Admin Page.
+Add user name = admin password 1234.
+You will able to see the list of bank account holders.
+
+While running this application, make sure you have the class path to jdbc connectivity to postgreSql jar file 
+either in command line or IDE.
+
